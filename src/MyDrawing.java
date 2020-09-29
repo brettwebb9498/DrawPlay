@@ -1,3 +1,9 @@
+/**
+ * @author Brett Webb
+ * @author Joseph Peak
+ * @date 9/29/2020
+ */
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;

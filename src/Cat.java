@@ -1,3 +1,9 @@
+/**
+ * @author Brett Webb
+ * @author Joseph Peak
+ * @date 9/29/2020
+ */
+
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;
